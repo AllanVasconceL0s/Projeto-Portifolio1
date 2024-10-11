@@ -167,6 +167,7 @@ span{
 .about-content h3{
     font-size: 62px;
     color: white;
+    top: relative;
 }
 .about-content p{
     color:white;
